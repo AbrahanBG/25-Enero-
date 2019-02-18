@@ -1,2 +1,2 @@
 # 25-Enero-
-Probloimas Resueltos en Clase
+Problemas Resueltos en Clase
